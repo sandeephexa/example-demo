@@ -6,3 +6,4 @@ require('./routes')(app);
 
 app.listen(3001);
 console.log("Running on port 3001...");
+console.log("second console log");
